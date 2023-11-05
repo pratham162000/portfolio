@@ -1,68 +1,43 @@
-/* styles.css */
+/* Original CSS */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
+  background-color: #f0f0f0; /* Gray background */
+  color: #333; /* Dark text color */
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
-    text-align: center;
+h1 {
+  color: #007bff; /* Blue header text */
 }
 
-nav ul {
-    list-style: none;
+p {
+  color: #666; /* Gray paragraph text */
 }
 
-nav li {
-    display: inline;
-    margin: 0 20px;
+button {
+  background-color: #007bff; /* Blue button background */
+  color: #fff; /* White button text */
+  border: 2px solid #007bff; /* Blue button border */
 }
 
-nav a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
+/* More Colorful CSS */
+body {
+  background-color: #ffc0cb; /* Pink background */
+  color: #2ecc71; /* Green text color */
 }
 
-nav a:hover {
-    color: #ff9900;
+h1 {
+  color: #ff5733; /* Orange header text */
 }
 
-section {
-    padding: 40px;
-    background-color: #fff;
-    margin: 20px auto;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
+p {
+  color: #9932CC; /* Purple paragraph text */
 }
 
-h1, h2 {
-    color: #333;
-    text-align: center;
+button {
+  background-color: #ffcc00; /* Yellow button background */
+  color: #333; /* Dark text on button */
+  border: 2px solid #ffcc00; /* Yellow button border */
 }
 
-.project {
-    margin: 20px 0;
-    padding: 20px;
-    border: 1px solid #ddd;
-    background-color: #fff;
-    border-radius: 5px;
-    text-align: center;
-}
-
-.project img {
-    max-width: 100%;
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-}
-
-/* Additional styling can be added here */
 
 
 
